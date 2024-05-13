@@ -1,0 +1,9 @@
+.radix-themes {
+  --default-font-family: 'Montserrat', sans-serif !important;
+  --accent-9: #0E9AB0 !important;
+}
+
+.rt-SelectTrigger:where(.rt-r-size-3) {
+  border-radius: 8px !important;
+  height: 48px !important;
+}
